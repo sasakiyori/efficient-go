@@ -1,4 +1,4 @@
-package string_test
+package string_concatenation_test
 
 import (
 	"bytes"
